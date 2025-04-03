@@ -1,0 +1,12 @@
+
+{
+  "name": "bearstorm-training-timer",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0",
+    "typescript": "^5.0.0"
+  }
+}
