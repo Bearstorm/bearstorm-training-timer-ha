@@ -6,7 +6,7 @@
   "type": "plugin",
   "resources": [
     {
-      "url": "bearstorm-timer.js",
+      "url": "dist/bearstorm-timer.js",
       "type": "module"
     }
   ],
